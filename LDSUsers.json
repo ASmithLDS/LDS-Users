@@ -4,7 +4,8 @@
     "Tabs": [ "PIPE" ],
     "Panels": [
       "LDS-PIPE:Help",
-      "LDS-PIPE:Export Tools"
+      "LDS-PIPE:Export Tools",
+      "LDS-PIPE:Filters"
     ]
   },
   "ASmith": {
@@ -12,7 +13,8 @@
     "Tabs": [ "PIPE" ],
     "Panels": [
       "LDS-PIPE:Help",
-      "LDS-PIPE:Export Tools"
+      "LDS-PIPE:Export Tools",
+      "LDS-PIPE:Filters"
     ]
   }
 }
