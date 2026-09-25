@@ -16,5 +16,14 @@
       "LDS-PIPE:Export Tools",
       "LDS-PIPE:Filters"
     ]
-  }
+  }, 
+  "CMullin": {
+    "Expiration": "9999-12-31T23:59:59",
+    "Tabs": [ "PIPE" ],
+    "Panels": [
+      "LDS-PIPE:Help",
+      "LDS-PIPE:Export Tools",
+      "LDS-PIPE:Filters"
+    ]
+  },
 }
